@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-// 1 / 3 * areaTriangle * h
+
 
 public class Piramid {
 
